@@ -2,7 +2,6 @@
 
 **Vaultify** is a secure password-storing application built in Java that leverages PBKDF2 hashing with salt generation for strong password security. The application features a sleek and modern Swing-based GUI, making it easy to securely store and verify passwords. Vaultify serves as both a practical solution for password management and a learning tool for secure password-handling techniques in Java.
 
-![Vaultify Screenshot](screenshot.png) *(Add a screenshot of your UI here)*
 
 ## Features
 
